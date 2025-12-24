@@ -1,0 +1,12 @@
+[submodule "LIBERO"]
+	path = LIBERO
+	url = https://github.com/Lifelong-Robot-Learning/LIBERO.git
+[submodule "openpi"]
+	path = openpi
+	url = https://github.com/Physical-Intelligence/openpi
+[submodule "openvla"]
+	path = openvla
+	url = https://github.com/openvla/openvla
+[submodule "openvla-oft"]
+	path = openvla-oft
+	url = https://github.com/moojink/openvla-oft.git
